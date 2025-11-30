@@ -2,7 +2,7 @@
 
 🎯 Embedded & Platform Engineer | Automotive Software | OTA | SDV | Multi-core Systems
 
-I'm an embedded engineer with 2.5+ years of experience in the **platform team** of a major automotive supplier. I work on **embedded service integration**, **OTA deployment**, and **pipeline-based delivery systems** for Software-Defined Vehicles (SDVs).
+I'm an embedded engineer with 3+ years of experience in the **platform team** of a major automotive supplier. I work on **embedded service integration**, **OTA deployment**, and **pipeline-based delivery systems** for Software-Defined Vehicles (SDVs).
 
 ---
 
